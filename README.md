@@ -26,8 +26,7 @@ In your .NET project, add a reference to the MinIO library:
 In your `Program.cs` or `Startup.cs`, add the MinIO storage service to the service container:
 
 ```csharp
-using Minio.NetWrapper;
-using Minio.NetWrapper.Models;
+using MinioStorage;
 
 var builder = WebApplication.CreateBuilder(args);
 

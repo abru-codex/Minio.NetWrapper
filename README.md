@@ -1,2 +1,11 @@
 # Minio.NetWrapper
-Minio.NetWrapper is a  .NET library that simplifies interaction with MinIO object storage. Ideal for developers looking to integrate file storage and management features with minimal setup.
+
+A easy-to-use .NET library for interacting with MinIO object storage. Simplifies common operations such as creating buckets, uploading files, and managing objects.
+
+---
+
+## 🚀 Features
+- Create and manage buckets
+- Upload, download, and delete objects
+- Async support with `ConfigureAwait(false)` for library stability
+- Easy integration with any .NET project

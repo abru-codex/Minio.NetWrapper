@@ -7,5 +7,4 @@ A easy-to-use .NET library for interacting with MinIO object storage. Simplifies
 ## 🚀 Features
 - Create and manage buckets
 - Upload, download, and delete objects
-- Async support with `ConfigureAwait(false)` for library stability
 - Easy integration with any .NET project
